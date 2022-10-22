@@ -39,7 +39,6 @@ li{
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    /* background-color: #74b9ff; */
 }
 
 li input{
